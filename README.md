@@ -125,7 +125,7 @@
 
 
 
-**__Docker Pendiente de Pruebas__**
+**__Docker Pendiente a Pruebas__**
 
 
 
