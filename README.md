@@ -85,7 +85,7 @@
 
 
 
-**__Busqueda por Nombre y fecha__**
+**__Búsqueda por Nombre y fecha__**
 
 
 
